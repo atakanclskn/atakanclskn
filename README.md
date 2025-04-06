@@ -1,7 +1,7 @@
 <!-- Profil Yazı Makinesi Animasyonu -->
 <p align="center">
   <a href="https://github.com/atakanclskn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Hi+I'm+Atakan+%F0%9F%91%8B;Freelance+Developer+%7C+AI+Data+Contributor;CS+Student+%7C+Backend+%7C+NLP+%7C+CV;Always+Learning+%26+Building+Things+That+Matter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Hi+I'm+Atakan+%F0%9F%91%8B;Freelance+Developer+%7C+AI+Data+Contributor;CS+Student+%7C+Backend+%7C+NLP+%7C+CV;Always+Learning+%26+Building+Things+That+Matter" alt="Typing SVG" />
   </a>
 </p>
 
