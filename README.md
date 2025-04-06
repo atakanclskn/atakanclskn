@@ -28,8 +28,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atakanclskn&show_icons=true&theme=tokyonight&hide=prs,issues&custom_title=My GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakanclskn&layout=compact&theme=tokyonight&langs_count=6&custom_title=Languages I Use" height="150"/>
+  <img src="https://github-readme-stats-atakancaliskan.vercel.app/api?username=atakanclskn&show_icons=true&theme=tokyonight&hide=prs,issues&custom_title=My GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats-atakancaliskan.vercel.app/api/top-langs/?username=atakanclskn&layout=compact&theme=tokyonight&langs_count=6&custom_title=Languages I Use" height="150"/>
 </p>
 
 ---
