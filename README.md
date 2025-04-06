@@ -1,4 +1,4 @@
-<!-- ✨ Animated Intro -->
+![image](https://github.com/user-attachments/assets/8a59954e-5f53-4e9d-ae6d-62b7c92baac5)<!-- ✨ Animated Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&center=true&vCenter=true&color=00F0FF&color=FF7CFF&color=00FFC8&color=F72585&lines=Hi+I'm+Atakan+%F0%9F%91%8B;Freelance+Developer+%7C+AI+Contributor;CS+Student+%7C+Backend+Developer;Focused+on+NLP+%7C+Computer+Vision;Loves+Clean+Code+%26+Creative+Solutions" alt="Typing SVG" />
 </p>
