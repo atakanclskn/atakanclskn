@@ -48,7 +48,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atakanclskn&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github&custom_title=My+GitHub+Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atakanclskn&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues&custom_title=My+GitHub+Stats" width="430"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=atakanclskn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400"/>
 </p>
 
