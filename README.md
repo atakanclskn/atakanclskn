@@ -81,9 +81,3 @@
 > Clean code is my therapy, and GitHub is my playground 🎯
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img alt="snake animation" src="https://github.com/atakanclskn/atakanclskn/blob/output/github-contribution-grid-snake.svg" />
-</p>
