@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&center=true&vCenter=true&color=00F0FF&color=FF7CFF&color=00FFC8&color=F72585&lines=Hi+I'm+Atakan+%F0%9F%91%8B;Freelance+Developer+%7C+AI+Contributor;CS+Student+%7C+Backend+Developer;Focused+on+NLP+%7C+Computer+Vision;Loves+Clean+Code+%26+Creative+Solutions" alt="Typing SVG" />
 </p>
 
-
-
-
 ---
 
 ## 🧑‍💻 About Me
@@ -52,7 +49,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=atakanclskn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="800"/>
 </p>
 
-
 ---
 
 ## 🌐 Connect With Me
@@ -71,7 +67,7 @@
 
 ---
 
-## 🧊 Fun Fact
+## 🧢 Fun Fact
 
 > I love solving real-world problems with code and bringing ideas to life with clarity & purpose.  
 > Clean code is my therapy, and GitHub is my playground 🎯
