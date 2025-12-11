@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=SİZİN_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SİZİN_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now" width="400" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11149173656&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now" width="400" />
   </a>
 </div>
 
