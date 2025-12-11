@@ -1,83 +1,81 @@
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&center=true&vCenter=true&color=00F0FF&color=FF7CFF&color=00FFC8&color=F72585&lines=Hi+I'm+Atakan+%F0%9F%91%8B;Freelance+Developer+%7C+AI+Contributor;CS+Student+%7C+Backend+Developer;Focused+on+NLP+%7C+Computer+Vision;Loves+Clean+Code+%26+Creative+Solutions" alt="Typing SVG" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-> 🎓 3rd-year Computer Science student at **Dokuz Eylül University**  
-> 🤖 Working with **NLP**, **Computer Vision**, and **Backend** development  
-> 🌍 Freelancing via **Outlier**, **Freelancer.com**, **Upwork**  
-> 📬 Reach me at: [`atakanclskn@outlook.com`](mailto:atakanclskn@outlook.com)
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-22272E?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-22272E?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-22272E?style=for-the-badge&logo=javascript)
-![C#](https://img.shields.io/badge/C%23-22272E?style=for-the-badge&logo=csharp)
-![SQL](https://img.shields.io/badge/SQL-22272E?style=for-the-badge&logo=postgresql)
-
-### 🌐 Web  
-![HTML5](https://img.shields.io/badge/HTML5-22272E?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-22272E?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-22272E?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-22272E?style=for-the-badge&logo=tailwindcss)
-
-### 🛠 Tools  
-![Git](https://img.shields.io/badge/Git-22272E?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-22272E?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-22272E?style=for-the-badge&logo=visualstudiocode)
-![Bash](https://img.shields.io/badge/Bash-22272E?style=for-the-badge&logo=gnubash)
-
-### 🤖 AI & Data  
-![NLP](https://img.shields.io/badge/NLP-22272E?style=for-the-badge&logo=openai)
-![Pandas](https://img.shields.io/badge/Pandas-22272E?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-22272E?style=for-the-badge&logo=numpy)
-![Jupyter](https://img.shields.io/badge/Jupyter-22272E?style=for-the-badge&logo=jupyter)
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img width="800" src="https://github-readme-stats.vercel.app/api?username=atakanclskn&theme=tokyonight&show_icons=true&hide_border=true&hide=issues,prs&custom_title=GitHub+Stats" alt="stats" />
-  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=atakanclskn&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
----
-
-## 🏆 Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atakanclskn&theme=tokyonight&margin-w=10&row=1&column=6" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/atakanclskn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Atakan%20Çalışkan&fontSize=80&fontAlign=50&animation=twinkling&fontColor=ffffff" width="100%"/>
+  
+  <br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Crafting+Code+with+Passion;Always+Learning+New+Techs+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  
+  Please to meet you! I'm a **Computer Science Student** & **Developer** from Turkey 🇹🇷.  
+  Focusing on **NLP**, **Computer Vision** and **Scalable Backend Systems**.
+
+  ---
+  
+  Currently working on 🔭 **Advanced AI Models** Learning 🌱 **Cloud Architecture & Microservices** Ask me about 💬 **Python, Java, & Deep Learning**
+  
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=SİZİN_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SİZİN_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now" width="400" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">🛠️ Tech Stack & Arsenal</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js,cpp,html,css&perline=7" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=django,flask,react,pytorch,tensorflow,opencv,postgres,docker,git,vscode,linux,azure&perline=7" />
+</div>
+
+<br/>
+
+<h3 align="center">⚡ GitHub Analytics</h3>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atakanclskn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakanclskn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  </a>
+</div>
+
+<h3 align="center">🌍 3D Contribution City</h3>
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="mailto:atakanclskn@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
-  <a href="https://twitter.com/atakanchalaskan" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <a href="https://linkedin.com/in/atakanclskn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="https://instagram.com/atakanclskn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
----
-
-## 💬 Fun Fact
-
-> I enjoy transforming ideas into code, building projects that solve real-world problems, and drinking unhealthy amounts of coffee ☕  
-> Clean code is my therapy, and GitHub is my playground 🎯
-
----
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=atakanclskn&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+</div>
