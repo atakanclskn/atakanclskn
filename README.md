@@ -20,7 +20,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11149173656&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now" width="400" />
+  <a href="https://open.spotify.com/user/11149173656">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11149173656&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" width="400" />
+  </a>
 </div>
 
 <br/>
@@ -36,12 +38,8 @@
 
 <h3 align="center">⚡ GitHub Analytics</h3>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=atakanclskn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="170" alt="stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakanclskn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=atakanclskn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakanclskn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Langs" />
 </div>
 
 <h3 align="center">🌍 3D Contribution City</h3>
