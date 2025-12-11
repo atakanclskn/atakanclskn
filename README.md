@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-  <img src="github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/atakanclskn/atakanclskn/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <br/>
