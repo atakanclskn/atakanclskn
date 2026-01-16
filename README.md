@@ -9,12 +9,12 @@
 <br/>
 
 <div align="center">
-  Please to meet you! I'm a **Computer Science Student** & **Developer** from Turkey 🇹🇷.  
-  Focusing on **NLP**, **Computer Vision** and **Scalable Backend Systems**.
+  Please to meet you! I'm a Computer Science Student & Developer from Turkey 🇹🇷.  
+  Focusing on NLP, Computer Vision and Scalable Backend Systems.
 
   ---
   
-  Currently working on 🔭 **Advanced AI Models** Learning 🌱 **Cloud Architecture & Microservices** Ask me about 💬 **Python, Java, & Deep Learning**
+  Currently working on Advanced AI Models Learning Cloud Architecture & Microservices Ask me about Python, Java, & Deep Learning
 </div>
 
 <br/>
@@ -27,7 +27,7 @@
 
 <br/>
 
-<h3 align="center">🛠️ Tech Stack & Arsenal</h3>
+<h3 align="center">Tech Stack & Arsenal</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs,js,cpp,html,css&perline=7" />
   <br/>
@@ -36,13 +36,13 @@
 
 <br/>
 
-<h3 align="center">⚡ GitHub Analytics</h3>
+<h3 align="center">GitHub Analytics</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atakanclskn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakanclskn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Langs" />
 </div>
 
-<h3 align="center">🌍 3D Contribution City</h3>
+<h3 align="center">3D Contribution City</h3>
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 </div>
