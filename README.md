@@ -11,8 +11,7 @@ Bilgisayarlı görü, makine öğrenmesi ve ölçeklenebilir web uygulamaları g
 - **PipelineFlow**: yol hasarı tespiti için etiketleme, eğitim ve değerlendirme döngüsünü tek panelde toplayan bilgisayarlı görü platformu (YOLO, RT-DETR, SAM, SAHI). Ulusal Temel Bilimler Gençlik Sempozyumu lisans poster üçüncüsü.
 - [**Floodograph**](https://floodograph.vercel.app): gömülü dereleri bulup selleri 3D haritada simüle eden araç. EkoZeka 2026 Hackathon halk oylaması birincisi. ([kod](https://github.com/atakanclskn/floodograph))
 - **ChromaSync**: kozmetik markaları için yapay zekâ destekli büyüme platformu. Kozmetek 2026 Dijital Pazarlama Yarışması ikincisi.
-- [**Buyan Partners**](https://buyanpartners.com/): ABD merkezli bir danışmanlık firması için SEO odaklı kurumsal web sitesi. ([kod](https://github.com/atakanclskn/buyan-partners))
-- [**Portfolyo sitem**](https://atakanclskn.me): React, TypeScript ve Firebase ile yazdığım kişisel site ve yönetim paneli. ([kod](https://github.com/atakanclskn/atakanclskn-portfolio))
+
 
 ## Teknolojiler
 
